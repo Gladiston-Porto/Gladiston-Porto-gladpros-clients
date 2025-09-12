@@ -28,8 +28,8 @@ jobs:
       run: npm ci
 
     - name: Run linting
-      run: echo " Linting skipped - ESLint config needs isolation from parent directory"
-      # run: npm run lint
+      run: echo "✅ Linting skipped - ESLint config needs isolation from parent directory"
+      # TODO: Fix ESLint config isolation, then enable: npm run lint
 
     - name: Run type checking
       run: npm run type-check
