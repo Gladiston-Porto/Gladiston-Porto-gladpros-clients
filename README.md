@@ -214,6 +214,10 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 MIT © GladPros Team
 
+---
+
+*📦 Primeira publicação automática - 12 de setembro de 2025*
+
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/Gladiston-Porto/gladpros-clients)
